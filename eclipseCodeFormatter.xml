@@ -4,12 +4,8 @@
       <list>
         <Settings>
           <option name="defaultSettings" value="true" />
-          <option name="formatter" value="ECLIPSE" />
-          <option name="id" value="1430145955930" />
-          <option name="importOrder" value="gov;java;javax;org;com;" />
-          <option name="importOrderConfigFilePath" value="$USER_HOME$/frb/master/top-core/.settings/org.eclipse.jdt.ui.prefs" />
+          <option name="id" value="1480396221373" />
           <option name="name" value="default" />
-          <option name="pathToConfigFileJava" value="$USER_HOME$/frb/master/top-core/.settings/org.eclipse.jdt.core.prefs" />
         </Settings>
       </list>
     </option>
