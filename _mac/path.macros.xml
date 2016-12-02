@@ -1,0 +1,11 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="JAVA_JRE_DIR" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/jre/lib" />
+    <macro name="JAVA_LIB_DIR" value="/Library/Java/JavaVirtualMachines/jdk1.7.0_55.jdk/Contents/Home/lib" />
+    <macro name="JBOSS_HOME" value="/Users/c1alg01/servers/EAP-6.4.0" />
+    <macro name="KOTLIN_BUNDLED" value="/Users/c1alg01/Library/Application Support/IntelliJIdea2016.2/Kotlin/kotlinc" />
+    <macro name="M2_HOME" value="/Users/c1alg01/jtools/maven3" />
+    <macro name="M2_REPO" value="~/maven-repo" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/c1alg01/.m2/repository" />
+  </component>
+</application>

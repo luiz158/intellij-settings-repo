@@ -1,0 +1,18 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.orig;" />
+    <extensionMap>
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+    </extensionMap>
+  </component>
+  <component name="FileTypeManager" version="16">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="HttpsClient" type="CLASS" />
+      <mapping ext="bsh" type="JAVA" />
+      <mapping pattern="jetty-plugin-config" type="PLAIN_TEXT" />
+      <mapping ext="fpr" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

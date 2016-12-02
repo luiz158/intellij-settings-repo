@@ -1,0 +1,12 @@
+<templateSet group="output">
+  <template name="sogr" value="&#10;  private static final transient Logger LOGGER = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());&#10;  " description="slf4j logger declaration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="logdecl" value="private static final transient Logger log = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());" description="static slf4j-api log declaration uses Methodhandles" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

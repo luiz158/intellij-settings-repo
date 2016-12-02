@@ -1,0 +1,10 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" />
+    <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Kotlin External annotations" displayType="STICKY_BALLOON" />
+    <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
+    <notification groupId="SbtImportMessage" displayType="STICKY_BALLOON" />
+    <notification groupId="Upgrade Subscription Renewal" displayType="STICKY_BALLOON" />
+  </component>
+</application>
