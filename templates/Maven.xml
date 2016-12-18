@@ -25,4 +25,14 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="prof" value="  &lt;profiles&gt;&#10;    &lt;profile&gt;&#10;      &lt;id&gt;&lt;/id&gt;&#10;    &lt;/profile&gt;&#10;  &lt;/profiles&gt;" description="profile template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="profp" value="  &lt;profiles&gt;&#10;    &lt;profile&gt;&#10;      &lt;id&gt;&lt;/id&gt;&#10;      &lt;build&gt;&#10;        &lt;plugins&gt;&#10;        &lt;/plugins&gt;&#10;      &lt;/build&gt;&#10;    &lt;/profile&gt;&#10;  &lt;/profiles&gt;" description="profile with build and plugins template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
