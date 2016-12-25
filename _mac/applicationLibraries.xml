@@ -1,5 +1,12 @@
 <application>
   <component name="libraryTable">
+    <library name="CDI" type="CDI">
+      <CLASSES>
+        <root url="jar://$MAVEN_REPOSITORY$/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="groovy-2.4.7">
       <CLASSES>
         <root url="jar://$USER_HOME$/jtools/groovy-sdk/lib/ant-1.9.4.jar!/" />
