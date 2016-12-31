@@ -45,4 +45,9 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="encs" value="    &lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;&#10;    &lt;project.reporting.outputEncoding&gt;UTF-8&lt;/project.reporting.outputEncoding&gt;" description="encodings properties" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
