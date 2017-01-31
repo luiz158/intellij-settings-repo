@@ -13,7 +13,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'versioneye-maven-plugin'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -27,10 +27,10 @@
       <mask>*.rb</mask>
       <mask>*</mask>
       <mask>*.jav</mask>
-      <mask>pom.xml</mask>
       <mask>*.xml</mask>
       <mask>Functio</mask>
       <mask>*.java</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
