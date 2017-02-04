@@ -11,8 +11,8 @@
   </template>
   <template name="logd" value="    private static final Logger log = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());" description="Slf4j Logger config" toReformat="false" toShortenFQNames="true">
     <context>
-      <option name="JAVA_STATEMENT" value="true" />
       <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
     </context>
   </template>
   <template name="modc" value="&lt;plugin&gt;&#10;            &lt;groupId&gt;org.gaul&lt;/groupId&gt;&#10;            &lt;artifactId&gt;modernizer-maven-plugin&lt;/artifactId&gt;&#10;            &lt;version&gt;1.4.0&lt;/version&gt;&#10;            &lt;configuration&gt;&#10;              &lt;javaVersion&gt;1.8&lt;/javaVersion&gt;&#10;            &lt;/configuration&gt;&#10;            &lt;executions&gt;&#10;              &lt;execution&gt;&#10;                &lt;phase&gt;validate&lt;/phase&gt;&#10;                &lt;goals&gt;&#10;                  &lt;goal&gt;modernizer&lt;/goal&gt;&#10;                &lt;/goals&gt;&#10;              &lt;/execution&gt;&#10;            &lt;/executions&gt;&#10;          &lt;/plugin&gt;" description="modernizer plugin config" toReformat="false" toShortenFQNames="true">
@@ -40,7 +40,7 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="plgs" value="      &lt;plugin&gt;&#10;        &lt;artifactId&gt;maven-dependency-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.10&lt;/version&gt;&#10;      &lt;/plugin&gt;&#10;      &lt;plugin&gt;&#10;        &lt;artifactId&gt;maven-help-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.2&lt;/version&gt;&#10;      &lt;/plugin&gt;&#10;      &lt;plugin&gt;&#10;        &lt;groupId&gt;org.codehaus.mojo&lt;/groupId&gt;&#10;        &lt;artifactId&gt;versions-maven-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.3&lt;/version&gt;&#10;      &lt;/plugin&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="plgs" value="      &lt;plugin&gt;&#10;        &lt;artifactId&gt;maven-dependency-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;3.0.0&lt;/version&gt;&#10;      &lt;/plugin&gt;&#10;      &lt;plugin&gt;&#10;        &lt;artifactId&gt;maven-help-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.2&lt;/version&gt;&#10;      &lt;/plugin&gt;&#10;      &lt;plugin&gt;&#10;        &lt;groupId&gt;org.codehaus.mojo&lt;/groupId&gt;&#10;        &lt;artifactId&gt;versions-maven-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;2.3&lt;/version&gt;&#10;      &lt;/plugin&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
