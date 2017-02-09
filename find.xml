@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'versioneye-maven-plugin'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,13 +19,14 @@
       <mask>*.sql</mask>
       <mask>*.feature</mask>
       <mask>*.rb</mask>
-      <mask>*</mask>
       <mask>*.jav</mask>
       <mask>*.xml</mask>
       <mask>Functio</mask>
       <mask>*.java</mask>
       <mask>pom.xml1.7.21</mask>
       <mask>pom.xml</mask>
+      <mask>*</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
