@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://jboss.org/schema/arquillian" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/81274c93_arquillian_1_0.xsd" />
     <resource url="http://jboss.org/schema/arquillian/arquillian_1_0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/81274c93_arquillian_1_0.xsd" />
+    <resource url="http://maven.apache.org/POM/4.0.0" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.3/extResources/cbe730b3_maven-v4_0_0.xsd" />
     <resource url="http://maven.apache.org/SETTINGS/1.0.0" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/a4f41e22_settings-1.0.0.xsd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/489cc366_assembly-1.1.0.xsd" />
     <resource url="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/464d195c_archetype-catalog-1.0.0.xsd" />
