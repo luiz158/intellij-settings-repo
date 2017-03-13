@@ -1,7 +1,6 @@
 <application>
   <component name="ExternalizerSettings">
     <option name="active" value="true" />
-    <option name="name" value="Andy Glick" />
     <option name="email" value="andyglick@gmail.com" />
   </component>
 </application>
