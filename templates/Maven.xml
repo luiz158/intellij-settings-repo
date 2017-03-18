@@ -60,4 +60,14 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
+  <template name="spk" value="    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.spockframework&lt;/groupId&gt;&#10;      &lt;artifactId&gt;spock-core&lt;/artifactId&gt;&#10;      &lt;version&gt;1.1-groovy-2.4-rc-3&lt;/version&gt;&#10;      &lt;scope&gt;test&lt;/scope&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.codehaus.groovy&lt;/groupId&gt;&#10;      &lt;artifactId&gt;groovy-all&lt;/artifactId&gt;&#10;      &lt;version&gt;2.4.9&lt;/version&gt;&#10;      &lt;scope&gt;test&lt;/scope&gt;&#10;    &lt;/dependency&gt;" description="spock dependencies" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
+  <template name="gmv" value="      &lt;plugin&gt;&#10;        &lt;groupId&gt;org.codehaus.gmavenplus&lt;/groupId&gt;&#10;        &lt;artifactId&gt;gmavenplus-plugin&lt;/artifactId&gt;&#10;        &lt;version&gt;1.5&lt;/version&gt;&#10;        &lt;executions&gt;&#10;          &lt;execution&gt;&#10;            &lt;goals&gt;&#10;              &lt;goal&gt;testCompile&lt;/goal&gt;&#10;            &lt;/goals&gt;&#10;          &lt;/execution&gt;&#10;        &lt;/executions&gt;&#10;      &lt;/plugin&gt;" description="gmaven plugin declaration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="MAVEN" value="true" />
+    </context>
+  </template>
 </templateSet>
