@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'versioneye-maven-plugin'" />
     <option name="defaultScopeName" value="Project 'versioneye-maven-plugin'" />
     <option name="SEARCH_SCOPE" value="Project 'versioneye-maven-plugin'" />
-    <option name="FILE_MASK" value="pom.xml" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -21,8 +21,8 @@
       <mask>pom.xml1.7.21</mask>
       <mask>*</mask>
       <mask>*.*</mask>
-      <mask>*.java</mask>
       <mask>pom.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
