@@ -1,4 +1,11 @@
-<inspections profile_name="Default" version="1.0">
+<profile version="1.0">
   <option name="myName" value="Default" />
-  <option name="myLocal" value="true" />
-</inspections>
+  <inspection_tool class="UnnecessaryLocalVariable" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_ignoreImmediatelyReturnedVariables" value="true" />
+    <option name="m_ignoreAnnotatedVariables" value="false" />
+  </inspection_tool>
+  <inspection_tool class="UnnecessaryLocalVariableJS" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="m_ignoreImmediatelyReturnedVariables" value="false" />
+    <option name="m_ignoreAnnotatedVariables" value="false" />
+  </inspection_tool>
+</profile>
