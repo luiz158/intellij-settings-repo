@@ -6,6 +6,7 @@
     <resource url="http://maven.apache.org/SETTINGS/1.0.0" location="$USER_HOME$/Library/Caches/IntelliJIdea14/extResources/a4f41e22_settings-1.0.0.xsd" />
     <resource url="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.0" location="$USER_HOME$/Library/Caches/IntelliJIdea15/extResources/489cc366_assembly-1.1.0.xsd" />
     <resource url="http://maven.apache.org/xsd/archetype-catalog-1.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.2/extResources/464d195c_archetype-catalog-1.0.0.xsd" />
+    <resource url="http://maven.apache.org/xsd/decoration-1.0.0.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2017.1/extResources/9c3a2f6f_decoration-1.0.0.xsd" />
     <resource url="http://www.mojohaus.org/versions-maven-plugin/rule/2.0.0" location="$USER_HOME$/Library/Caches/IntelliJIdea2016.1/extResources/2803dc80_rule-2.0.0.xsd" />
     <resource url="urn:jboss:1.0" location="$USER_HOME$/jtools/jboss-eap-6.4/docs/schema/jboss_1_0.xsd" />
     <resource url="urn:jboss:cli:1.0" location="$USER_HOME$/jtools/jboss-eap-6.4/docs/schema/jboss-as-cli_1_0.xsd" />
