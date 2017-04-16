@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
@@ -25,13 +23,13 @@
       <mask>p.xml</mask>
       <mask>po.xml</mask>
       <mask>*.jav</mask>
-      <mask>pom.x</mask>
-      <mask>pom.xml</mask>
-      <mask>pom.xm</mask>
-      <mask>pom.</mask>
-      <mask>pom</mask>
-      <mask>po</mask>
       <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
