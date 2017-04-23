@@ -9,7 +9,7 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="logd" value="    private static final Logger log = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());" description="Slf4j Logger config" toReformat="false" toShortenFQNames="true">
+  <template name="logd" value="    private static final Logger LOG = LoggerFactory.getLogger(MethodHandles.lookup().lookupClass());" description="Slf4j Logger config" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_DECLARATION" value="true" />
       <option name="JAVA_STATEMENT" value="true" />
@@ -55,7 +55,7 @@
       <option name="MAVEN" value="true" />
     </context>
   </template>
-  <template name="mslf4j" value="    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;jcl-over-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;jul-to-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;log4j-over-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;slf4j-api&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.apache.logging.log4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;log4j-to-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;2.8.1&lt;/version&gt;&#10;    &lt;/dependency&gt;" description="slf4j replacements" toReformat="false" toShortenFQNames="true">
+  <template name="mslf4j" value="    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;jcl-over-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;jul-to-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;log4j-over-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.slf4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;slf4j-api&lt;/artifactId&gt;&#10;      &lt;version&gt;${slf4j.version}&lt;/version&gt;&#10;    &lt;/dependency&gt;&#10;    &lt;dependency&gt;&#10;      &lt;groupId&gt;org.apache.logging.log4j&lt;/groupId&gt;&#10;      &lt;artifactId&gt;log4j-to-slf4j&lt;/artifactId&gt;&#10;      &lt;version&gt;2.8.2&lt;/version&gt;&#10;    &lt;/dependency&gt;" description="slf4j replacements" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="MAVEN" value="true" />
     </context>
