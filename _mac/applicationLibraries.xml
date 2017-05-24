@@ -7,6 +7,13 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Clover IDEA Plugin">
+      <CLASSES>
+        <root url="jar://$APPLICATION_PLUGINS_DIR$/clover-idea-4.2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="groovy-2.4.7">
       <CLASSES>
         <root url="jar://$USER_HOME$/jtools/groovy-sdk/lib/ant-1.9.4.jar!/" />
